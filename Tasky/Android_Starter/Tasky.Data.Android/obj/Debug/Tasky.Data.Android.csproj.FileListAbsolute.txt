@@ -1,0 +1,13 @@
+C:\Users\rashmiroshan\Documents\Visual Studio 2017\Projects\Tasky\Android_Starter\Tasky.Data.Android\bin\Debug\Tasky.Data.Android.dll
+C:\Users\rashmiroshan\Documents\Visual Studio 2017\Projects\Tasky\Android_Starter\Tasky.Data.Android\bin\Debug\Tasky.Data.Android.pdb
+C:\Users\rashmiroshan\Documents\Visual Studio 2017\Projects\Tasky\Android_Starter\Tasky.Data.Android\bin\Debug\Tasky.Data.Android.apk
+C:\Users\rashmiroshan\Documents\Visual Studio 2017\Projects\Tasky\Android_Starter\Tasky.Data.Android\bin\Debug\Tasky.Data.Android-Signed.apk
+C:\Users\rashmiroshan\Documents\Visual Studio 2017\Projects\Tasky\Android_Starter\Tasky.Data.Android\obj\Debug\Tasky.Data.Android.csprojResolveAssemblyReference.cache
+C:\Users\rashmiroshan\Documents\Visual Studio 2017\Projects\Tasky\Android_Starter\Tasky.Data.Android\obj\Debug\Tasky.Data.Android.dll
+C:\Users\rashmiroshan\Documents\Visual Studio 2017\Projects\Tasky\Android_Starter\Tasky.Data.Android\obj\Debug\Tasky.Data.Android.pdb
+C:\Users\rashmiroshan\Documents\Visual Studio 2017\Projects\Tasky\Android_Starter\Tasky.Data.Android\obj\Debug\android\bin\Tasky.Data.Android.apk
+C:\Users\rashmiroshan\Documents\Visual Studio 2017\Projects\Tasky\Android_Starter\Tasky.Data.Android\obj\Debug\res\values\strings.xml
+C:\Users\rashmiroshan\Documents\Visual Studio 2017\Projects\Tasky\Android_Starter\Tasky.Data.Android\obj\Debug\R.cs.flag
+C:\Users\rashmiroshan\Documents\Visual Studio 2017\Projects\Tasky\Android_Starter\Tasky.Data.Android\obj\Debug\uploadflags.txt
+C:\Users\rashmiroshan\Documents\Visual Studio 2017\Projects\Tasky\Android_Starter\Tasky.Data.Android\bin\Debug\SQLite.Net.dll
+C:\Users\rashmiroshan\Documents\Visual Studio 2017\Projects\Tasky\Android_Starter\Tasky.Data.Android\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
